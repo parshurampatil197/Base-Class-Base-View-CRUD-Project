@@ -16,7 +16,7 @@ Base class-based views can be thought of as parent views, which can be used by t
   3. RedirectView
    
    
-![crud](https://user-images.githubusercontent.com/84769341/204024870-eed80e48-60c2-4ca3-b445-44655fededfb.png)
+![1](https://user-images.githubusercontent.com/84769341/205976226-c547a81e-20a3-4797-8adc-5d2765b74244.png)
 
 
 ## Requirements
