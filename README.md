@@ -66,4 +66,9 @@ Django==3.4.1\
 
 ```
 
+# Test APIs 
+CRUD API also added for Mobile / other language application
 
+```http
+  http://127.0.0.1:8000/api/crud/
+```
